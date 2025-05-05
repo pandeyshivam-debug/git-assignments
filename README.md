@@ -8,3 +8,6 @@
 2. Added new text (assignment objectives to the file)
 3. Added assignment deliverables to the file
 4. Removed assignment objectives from the text file
+
+## This change to README.md was made through--
+### "feature/update-readme"
