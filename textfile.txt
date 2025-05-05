@@ -6,3 +6,7 @@ This file was created at 14:48 on 05-05-2025.
 ---
 Assignment 1: Basic Git Workflow
 Objective: Learn fundamental Git commands and the basic workflow.
+Deliverables:
+•	Repository with commit history
+•	Screenshot of git log output
+...
