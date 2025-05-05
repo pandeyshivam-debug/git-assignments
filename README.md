@@ -11,3 +11,11 @@
 
 ## This change to README.md was made through--
 ### "feature/update-readme"
+
+## ASSIGNMENT 2
+
+![pull request from feature/update-branch to main](<Screenshot 2025-05-05 153132.png>)
+####pull request from feature/update-branch to main
+
+![MERGED](<Screenshot 2025-05-05 153244.png>)
+####MERGED
